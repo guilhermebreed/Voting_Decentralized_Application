@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.4.11",
+    "truffle": "^3.4.9",
+    "web3": "^1.0.0-beta.35"
+  }
+}
